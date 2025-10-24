@@ -16,6 +16,6 @@ This repository demonstrates a machine learning workflow for classifying iris sp
 # 🎯 Outcome
 Developed a Random Forest model achieving high accuracy in classifying Iris-setosa, Iris-versicolor, and Iris-virginica. Comprehensive EDA and visualizations provide insights into feature relevance and model behavior.
 
-# Project Insights:
+# 📌Project Insights:
 <img width="2183" height="1569" alt="image" src="https://github.com/user-attachments/assets/76ebf38c-122a-46b4-806b-1531456f91dd" />
 <img width="1984" height="1178" alt="image" src="https://github.com/user-attachments/assets/c9b807c0-f69d-4de9-840e-6adf619a7ef5" />
